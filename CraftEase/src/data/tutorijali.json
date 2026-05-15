@@ -1,0 +1,431 @@
+{
+  "kategorije": [
+    { "id": "spavaca-soba", "naziv": "Spavaća soba", "ikona": "🛏️" },
+    { "id": "kuhinja",      "naziv": "Kuhinja",       "ikona": "🍳" },
+    { "id": "dnevna-soba",  "naziv": "Dnevna soba",   "ikona": "🛋️" },
+    { "id": "kupaonica",    "naziv": "Kupaonica",     "ikona": "🚿" },
+    { "id": "predsoblje",   "naziv": "Predsoblje",    "ikona": "🚪" },
+    { "id": "okucnica",     "naziv": "Okućnica",      "ikona": "🌿" }
+  ],
+
+  "tutorijali": [
+    {
+      "id": "sloziti-krevet",
+      "naslov": "Kako složiti krevet korak po korak",
+      "opis": "Naučite kako pravilno sastaviti bračni krevet od nule – od okvira do uzglavlja. Vodič je idealan za početnike koji prvi put sastavljaju namještaj.",
+      "kategorija": "spavaca-soba",
+      "razina": "početnik",
+      "vrijemeMin": 60,
+      "trošak": "$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Raspakujte sve dijelove i provjerite popis sadržaja u uputama.",
+        "Spojite bočne stranice okvira koristeći imbus ključ.",
+        "Postavite letva podlogu – počnite od sredine prema rubovima.",
+        "Pričvrstite uzglavlje i podnožje kreveta.",
+        "Provjerite stabilnost laganim ljuljanjem okvira prije postavljanja madraca."
+      ],
+      "alati": [
+        {
+          "naziv": "Imbus ključ set",
+          "ikona": "🔧",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=imbus+kljuc+set"
+        },
+        {
+          "naziv": "Čekić",
+          "ikona": "🔨",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=cekic"
+        },
+        {
+          "naziv": "Metar",
+          "ikona": "📏",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=metar+mjerni"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Drveni vijci 4×40 mm (pak. 100 kom)",
+          "ikona": "🪛",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=drveni+vijci+4x40"
+        },
+        {
+          "naziv": "Drvena letva 70×8 mm",
+          "ikona": "🪵",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=drvena+letva"
+        }
+      ]
+    },
+
+    {
+      "id": "ugradnja-polica",
+      "naslov": "Ugradnja zidnih polica u dnevnom boravku",
+      "opis": "Korak-po-korak vodič za montažu plutajućih polica na zid. Naučite kako pravilno locirati nosače, bušiti u beton i postići savršenu horizontalnost.",
+      "kategorija": "dnevna-soba",
+      "razina": "srednji",
+      "vrijemeMin": 90,
+      "trošak": "$$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Označite željenu visinu police detektorom razine.",
+        "Bušilicom izbušite rupe na označenim mjestima.",
+        "Utisnite plastične tiple i pričvrstite nosače vijcima.",
+        "Postavite policu na nosače i provjerite razinom.",
+        "Fiksirajtе policu završnim vijcima."
+      ],
+      "alati": [
+        {
+          "naziv": "Udarna bušilica",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=udarna+busilica"
+        },
+        {
+          "naziv": "Libela (razina)",
+          "ikona": "📐",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+razina"
+        },
+        {
+          "naziv": "Odvijač Phillips",
+          "ikona": "🪛",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=odvijac+phillips"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Plastični tiplovi 8 mm (pak. 50 kom)",
+          "ikona": "🔘",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=plasticni+tiplovi+8mm"
+        },
+        {
+          "naziv": "Vijci za beton 5×60 mm",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+za+beton+5x60"
+        },
+        {
+          "naziv": "Nosači za plutajuće police",
+          "ikona": "🪝",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=nosaci+police+plutajuce"
+        }
+      ]
+    },
+
+    {
+      "id": "kuhinjske-plocice",
+      "naslov": "Postavljanje kuhinjskih pločica – leđa kuhinje",
+      "opis": "Naučite kako sami postaviti dekorativne pločice na zid iza kuhinjskih elemenata. Vodič pokriva pripremu površine, rezanje pločica i fugiranje.",
+      "kategorija": "kuhinja",
+      "razina": "napredni",
+      "vrijemeMin": 240,
+      "trošak": "$$$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1556909211-36987daf7b4d?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Očistite i izravnajte površinu zida, uklonite stare obloge.",
+        "Označite središte zida i počnite postavljanje od sredine prema rubovima.",
+        "Nanesite ljepilo za pločice zupčastom lopaticama.",
+        "Postavite pločice s plastičnim razmaknicama za jednake fuge.",
+        "Nakon sušenja (24h) nanesite fugnmasu i obrišite višak vlažnom spužvom."
+      ],
+      "alati": [
+        {
+          "naziv": "Rezač pločica",
+          "ikona": "✂️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=rezac+plocica"
+        },
+        {
+          "naziv": "Zupčasta lopatica",
+          "ikona": "🔧",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=zupcasta+lopatica"
+        },
+        {
+          "naziv": "Gumena lopatica za fugiranje",
+          "ikona": "🛠️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=lopatica+fugiranje"
+        },
+        {
+          "naziv": "Libela (razina)",
+          "ikona": "📐",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+razina"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Ljepilo za pločice C2 (25 kg)",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=ljepilo+za+plocice+C2"
+        },
+        {
+          "naziv": "Fugirna masa bijela (5 kg)",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=fugirna+masa+bijela"
+        },
+        {
+          "naziv": "Plastične razmaknice 2 mm (pak. 250)",
+          "ikona": "🔘",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=razmaknice+plocice+2mm"
+        }
+      ]
+    },
+
+    {
+      "id": "ogledalo-kupaonica",
+      "naslov": "Montaža ogledala i polica u kupaonici",
+      "opis": "Savjeti za sigurnu i estetsku ugradnju ogledala te malih polica u kupaonici. Poseban naglasak na vlagu-otporne materijale i pravilno brtvljenje.",
+      "kategorija": "kupaonica",
+      "razina": "početnik",
+      "vrijemeMin": 45,
+      "trošak": "$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Pronađite nosive točke na zidu detektorom.",
+        "Označite poziciju nosača ogledala.",
+        "Izbušite rupe i postavite vodootporne tiplove.",
+        "Objesite ogledalo i brtvite rubove silikonom.",
+        "Ostavite silikon da se suši 24 sata."
+      ],
+      "alati": [
+        {
+          "naziv": "Detektor kabela i nosača",
+          "ikona": "📡",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=detektor+kabela+nosaca"
+        },
+        {
+          "naziv": "Bušilica",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=busilica"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Silikon za kupaonicu bijeli (310 ml)",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=silikon+kupaonica+bijeli"
+        },
+        {
+          "naziv": "Nehrđajući vijci 4×35 mm",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=nehrdjajuci+vijci+4x35"
+        }
+      ]
+    },
+
+    {
+      "id": "vjesalica-predsoblje",
+      "naslov": "DIY vješalica za predsoblje od drvene daske",
+      "opis": "Izradite elegantnu vješalicu za predsoblje od jedne drvene daske i kuka. Projekt traje manje od sat vremena i ne zahtijeva posebne vještine.",
+      "kategorija": "predsoblje",
+      "razina": "početnik",
+      "vrijemeMin": 50,
+      "trošak": "$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Odaberite i izbrušite drvenu dasku dimenzija 100×15 cm.",
+        "Premazite dasku uljem ili lakom po izboru.",
+        "Označite i izbušite rupe za kuke na jednakim razmacima.",
+        "Pričvrstite kuke za odjeću na dasku.",
+        "Objesite vješalicu na zid pomoću nosača."
+      ],
+      "alati": [
+        {
+          "naziv": "Brusilica za drvo (brusni papir 120/240)",
+          "ikona": "🛠️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=brusni+papir+drvo"
+        },
+        {
+          "naziv": "Bušilica s drvenim svrdlom",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=busilica+svrdlo+drvo"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Borova daska 100×15×2 cm",
+          "ikona": "🪵",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=borova+daska+100x15"
+        },
+        {
+          "naziv": "Kuke za odjeću crne (pak. 5 kom)",
+          "ikona": "🪝",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=kuke+za+odjecu+crne"
+        },
+        {
+          "naziv": "Ulje za drvo bezbojno (250 ml)",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=ulje+za+drvo+bezbojno"
+        }
+      ]
+    },
+
+    {
+      "id": "cvjetnjak-okucnica",
+      "naslov": "Izgradnja drvenog cvjetnjaka za terasu",
+      "opis": "Napravite vlastiti elevated cvjetnjak od terasa dasaka. Savršen projekt za vikend – bez posebnih alata, a rezultat traje godinama.",
+      "kategorija": "okucnica",
+      "razina": "srednji",
+      "vrijemeMin": 180,
+      "trošak": "$$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Izrežite terasa daske na mjere: 2× 120 cm i 2× 40 cm za bočne stranice.",
+        "Složite okvir i učvrstite vijcima na kutnim spojevima.",
+        "Dodajte unutarnji sloj geotekstila koji sprečava ispadanje zemlje.",
+        "Napunite cvjetnjak mješavinom vrtnog i supstrata.",
+        "Posadite cvijeće ili povrće i zalijevajte."
+      ],
+      "alati": [
+        {
+          "naziv": "Ručna ili električna pila",
+          "ikona": "🪚",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=rucna+pila+drvo"
+        },
+        {
+          "naziv": "Akumulatorska bušilica-odvijač",
+          "ikona": "🔧",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=akumulatorska+busilica+odvijac"
+        },
+        {
+          "naziv": "Metar",
+          "ikona": "📏",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=metar+mjerni"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Terasa daske 120×14 cm (impregnirane)",
+          "ikona": "🪵",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=terasa+daske+impregnirane"
+        },
+        {
+          "naziv": "Vijci za vanjsku upotrebu 4×60 mm",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+vanjska+upotreba+4x60"
+        },
+        {
+          "naziv": "Geotekstil 1×5 m",
+          "ikona": "🧵",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=geotekstil"
+        },
+        {
+          "naziv": "Vrtni supstrat 50 L",
+          "ikona": "🌱",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vrtni+supstrat+50l"
+        }
+      ]
+    },
+
+    {
+      "id": "kuhinjski-ormar",
+      "naslov": "Montaža visećeg kuhinjskog ormara",
+      "opis": "Detaljan vodič za postavljanje visećih kuhinjskih elemenata. Naučite kako pravilno izmjeriti, nivelirati i sigurno pričvrstiti ormar na zid.",
+      "kategorija": "kuhinja",
+      "razina": "srednji",
+      "vrijemeMin": 120,
+      "trošak": "$$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Označite horizontalnu liniju na zidu na željenu visinu ormara.",
+        "Pronađite nosive zidne profile detektorom.",
+        "Pričvrstite montažnu šinu na zid.",
+        "Objesite ormar na šinu i podesite razinu.",
+        "Ugradite police i vrata ormara, podesite šarke."
+      ],
+      "alati": [
+        {
+          "naziv": "Udarna bušilica",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=udarna+busilica"
+        },
+        {
+          "naziv": "Libela 60 cm",
+          "ikona": "📐",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=libela+60cm"
+        },
+        {
+          "naziv": "Phillips odvijač i imbus ključevi",
+          "ikona": "🛠️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=odvijac+imbus+set"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Montažna šina za kuhinjske elemente",
+          "ikona": "🪝",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=montazna+sina+kuhinja"
+        },
+        {
+          "naziv": "Vijci za beton 6×60 mm (pak. 10)",
+          "ikona": "🔩",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=vijci+beton+6x60"
+        },
+        {
+          "naziv": "Tiplovi nylon 8 mm",
+          "ikona": "🔘",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=tiplovi+nylon+8mm"
+        }
+      ]
+    },
+
+    {
+      "id": "bojanje-zidova",
+      "naslov": "Bojanje zidova dnevne sobe poput profesionalca",
+      "opis": "Sve što trebate znati o pripremi podloge, odabiru boje, zaštiti rubova i tehnikama nanošenja. Nakon ovog videa zidovi će izgledati kao da ih je bojao majstor.",
+      "kategorija": "dnevna-soba",
+      "razina": "početnik",
+      "vrijemeMin": 180,
+      "trošak": "$$",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=640&q=80",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "koraci": [
+        "Zaštitite pod, namještaj i rubove trakom za maskiranje.",
+        "Izravnajte neravnine špahtelom i gletom, ostavite da se suši.",
+        "Nanesite prvi sloj temeljne boje valjkom.",
+        "Nakon sušenja (4h) nanesite završni sloj boje.",
+        "Pažljivo uklonite trake za maskiranje dok je boja još malo vlažna."
+      ],
+      "alati": [
+        {
+          "naziv": "Valjak za bojanje 23 cm",
+          "ikona": "🖌️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=valjak+bojanje+23cm"
+        },
+        {
+          "naziv": "Kist 50 mm za rubove",
+          "ikona": "🖌️",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=kist+50mm+bojanje"
+        },
+        {
+          "naziv": "Posuda za boju s mrežicom",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=posuda+boja+mrezica"
+        }
+      ],
+      "materijali": [
+        {
+          "naziv": "Temeljna boja bijela 5L",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=temeljna+boja+bijela+5l"
+        },
+        {
+          "naziv": "Zidna boja po izboru 5L",
+          "ikona": "🎨",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=zidna+boja+5l"
+        },
+        {
+          "naziv": "Traka za maskiranje 38 mm",
+          "ikona": "📦",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=traka+maskiranje+38mm"
+        },
+        {
+          "naziv": "Glet masa 5 kg",
+          "ikona": "🪣",
+          "bauhasUrl": "https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=glet+masa+5kg"
+        }
+      ]
+    }
+  ]
+}
