@@ -220,7 +220,11 @@
       "vrijemeMin": 50,
       "trošak": "$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+<<<<<<< Updated upstream
       "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+=======
+      "videoUrl":  "https://www.youtube.com/embed/YQc14oPm4aA",
+>>>>>>> Stashed changes
       "koraci": [
         "Odaberite i izbrušite drvenu dasku dimenzija 100×15 cm.",
         "Premazite dasku uljem ili lakom po izboru.",
@@ -326,7 +330,11 @@
       "vrijemeMin": 120,
       "trošak": "$$",
       "thumbnailUrl": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=640&q=80",
+<<<<<<< Updated upstream
       "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+=======
+      "videoUrl": "https://www.youtube.com/embed/YQc14oPm4aA",
+>>>>>>> Stashed changes
       "koraci": [
         "Označite horizontalnu liniju na zidu na željenu visinu ormara.",
         "Pronađite nosive zidne profile detektorom.",
