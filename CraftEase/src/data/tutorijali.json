@@ -60,7 +60,7 @@
     {
       "id": "ugradnja-polica",
       "naslov": "Ugradnja zidnih polica u dnevnom boravku",
-      "opis": "Korak-po-korak vodič za montažu plutajućih polica na zid. Naučite kako pravilno locirati nosače, bušiti u beton i postići savršenu horizontalnost.",
+      "opis": "Korak-po-korak vodič za montažu zidnih polica na zid. Naučite kako pravilno locirati nosače, bušiti u beton i postići savršenu horizontalnost.",
       "kategorija": "dnevna-soba",
       "razina": "srednji",
       "vrijemeMin": 90,
@@ -123,9 +123,9 @@
       "koraci": [
         "Očistite i izravnajte površinu zida, uklonite stare obloge.",
         "Označite središte zida i počnite postavljanje od sredine prema rubovima.",
-        "Nanesite ljepilo za pločice zupčastom lopaticama.",
+        "Nanesite ljepilo za pločice zupčastim lopaticama.",
         "Postavite pločice s plastičnim razmaknicama za jednake fuge.",
-        "Nakon sušenja (24h) nanesite fugnmasu i obrišite višak vlažnom spužvom."
+        "Nakon sušenja (24h) nanesite fug masu i obrišite višak vlažnom spužvom."
       ],
       "alati": [
         {
@@ -226,8 +226,8 @@
       "videoUrl":  "https://www.youtube.com/embed/YQc14oPm4aA",
 >>>>>>> Stashed changes
       "koraci": [
-        "Odaberite i izbrušite drvenu dasku dimenzija 100×15 cm.",
-        "Premazite dasku uljem ili lakom po izboru.",
+        "Odaberite i izbrusite drvenu dasku dimenzija 100×15 cm.",
+        "Premažite dasku uljem ili lakom po izboru.",
         "Označite i izbušite rupe za kuke na jednakim razmacima.",
         "Pričvrstite kuke za odjeću na dasku.",
         "Objesite vješalicu na zid pomoću nosača."
